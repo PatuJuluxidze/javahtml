@@ -1,0 +1,33 @@
+
+    .flex{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+.fleximage{
+    width: 50%;
+    height: 50vh;
+    overflow: hidden;
+}
+.fleximage img{
+    width: 100%;
+    margin-top: -150px;
+}
+.flex button{
+    width: 50%;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px;
+}
+.flex .border{
+border-right: 1px solid white;
+}
+.bulb img{
+    width: 100%;
+
+}
+.bulbmain{
+    background-image: none;
+}
